@@ -1,0 +1,13 @@
+interface:
+  display_name: 项目开发训练题库
+  short_description: 多语言项目训练与作业批改：九维总评、逐行评分讲解、难度配比和学习反馈
+  default_prompt: 请用 $build-project-training 批改我的项目作业，按九维评分，并逐行解释作用、对错和修改建议；出题时使用我指定的语言和难度配比。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

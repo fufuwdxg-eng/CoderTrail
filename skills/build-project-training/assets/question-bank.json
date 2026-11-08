@@ -1,0 +1,889 @@
+{
+  "schema_version": 3,
+  "reviews": {},
+  "exercises": [
+    {
+      "id": "python-set-01-q01",
+      "batch_id": "python-set-01",
+      "title": "学习记录质量检查与周报",
+      "level": "basic",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "education"
+      ],
+      "concept_tags": [
+        "csv-cleaning"
+      ],
+      "artifact_tags": [
+        "report"
+      ],
+      "engineering_tags": [
+        "data-validation"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 3,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-01-q02",
+      "batch_id": "python-set-01",
+      "title": "英文阅读语料分析器",
+      "level": "basic",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "language-learning"
+      ],
+      "concept_tags": [
+        "text-frequency"
+      ],
+      "artifact_tags": [
+        "cli"
+      ],
+      "engineering_tags": [
+        "text-normalization"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 4,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-01-q03",
+      "batch_id": "python-set-01",
+      "title": "可持久化的学习任务清单",
+      "level": "basic",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "productivity"
+      ],
+      "concept_tags": [
+        "state-machine"
+      ],
+      "artifact_tags": [
+        "cli"
+      ],
+      "engineering_tags": [
+        "json-persistence"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 5,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-01-q04",
+      "batch_id": "python-set-01",
+      "title": "项目目录变化侦测器",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "developer-tools"
+      ],
+      "concept_tags": [
+        "content-hash"
+      ],
+      "artifact_tags": [
+        "report"
+      ],
+      "engineering_tags": [
+        "filesystem-traversal"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 6,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-01-q05",
+      "batch_id": "python-set-01",
+      "title": "有限时间下的学习任务优化器",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "planning"
+      ],
+      "concept_tags": [
+        "dynamic-programming"
+      ],
+      "artifact_tags": [
+        "cli"
+      ],
+      "engineering_tags": [
+        "solution-reconstruction"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 7,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-01-q06",
+      "batch_id": "python-set-01",
+      "title": "依赖任务与关键路径分析器",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "workflow"
+      ],
+      "concept_tags": [
+        "topological-sort"
+      ],
+      "artifact_tags": [
+        "report"
+      ],
+      "engineering_tags": [
+        "dependency-validation"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 8,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-01-q07",
+      "batch_id": "python-set-01",
+      "title": "考虑能耗的机器人路线规划",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "robotics"
+      ],
+      "concept_tags": [
+        "shortest-path"
+      ],
+      "artifact_tags": [
+        "data-file"
+      ],
+      "engineering_tags": [
+        "cost-modeling"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 9,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-01-q08",
+      "batch_id": "python-set-01",
+      "title": "传感器数据流异常侦测",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "sensor-data"
+      ],
+      "concept_tags": [
+        "robust-statistics"
+      ],
+      "artifact_tags": [
+        "data-stream"
+      ],
+      "engineering_tags": [
+        "streaming-processing"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 10,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-01-q09",
+      "batch_id": "python-set-01",
+      "title": "有并发限制的重试采集器",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "network-tools"
+      ],
+      "concept_tags": [
+        "async-concurrency"
+      ],
+      "artifact_tags": [
+        "cli"
+      ],
+      "engineering_tags": [
+        "retry-policy"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 11,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-01-q10",
+      "batch_id": "python-set-01",
+      "title": "实验设备预约数据库",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "resource-scheduling"
+      ],
+      "concept_tags": [
+        "interval-conflict"
+      ],
+      "artifact_tags": [
+        "database"
+      ],
+      "engineering_tags": [
+        "transactions"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 12,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-01-q11",
+      "batch_id": "python-set-01",
+      "title": "有语法边界的公式解释器",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "language-tools"
+      ],
+      "concept_tags": [
+        "ast-evaluation"
+      ],
+      "artifact_tags": [
+        "cli"
+      ],
+      "engineering_tags": [
+        "restricted-grammar"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 13,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-01-q12",
+      "batch_id": "python-set-01",
+      "title": "排队策略的离散事件实验",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "operations-research"
+      ],
+      "concept_tags": [
+        "discrete-event-simulation"
+      ],
+      "artifact_tags": [
+        "report"
+      ],
+      "engineering_tags": [
+        "strategy-comparison"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 14,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-01-q13",
+      "batch_id": "python-set-01",
+      "title": "离线中英文笔记检索器",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "knowledge-management"
+      ],
+      "concept_tags": [
+        "tf-idf"
+      ],
+      "artifact_tags": [
+        "cli"
+      ],
+      "engineering_tags": [
+        "inverted-index"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 15,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-01-q14",
+      "batch_id": "python-set-01",
+      "title": "可撤销的机器人路线编辑器",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "robotics"
+      ],
+      "concept_tags": [
+        "command-pattern"
+      ],
+      "artifact_tags": [
+        "cli"
+      ],
+      "engineering_tags": [
+        "atomic-undo"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 16,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-01-q15",
+      "batch_id": "python-set-01",
+      "title": "可恢复的实验数据流水线",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "workflow"
+      ],
+      "concept_tags": [
+        "dag-execution"
+      ],
+      "artifact_tags": [
+        "cli"
+      ],
+      "engineering_tags": [
+        "cache-consistency"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "question_page": 17,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q01",
+      "batch_id": "python-set-02",
+      "title": "厨房配方换算与购物清单",
+      "level": "basic",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "food-planning"
+      ],
+      "concept_tags": [
+        "rational-arithmetic"
+      ],
+      "artifact_tags": [
+        "report"
+      ],
+      "engineering_tags": [
+        "unit-modeling"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 3,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q02",
+      "batch_id": "python-set-02",
+      "title": "互动分支小说引擎",
+      "level": "basic",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "interactive-fiction"
+      ],
+      "concept_tags": [
+        "state-machine"
+      ],
+      "artifact_tags": [
+        "interactive-cli"
+      ],
+      "engineering_tags": [
+        "data-driven-design"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 4,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q03",
+      "batch_id": "python-set-02",
+      "title": "字幕时间轴校对与平移",
+      "level": "basic",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "video-media"
+      ],
+      "concept_tags": [
+        "timecode-parsing"
+      ],
+      "artifact_tags": [
+        "subtitle-file"
+      ],
+      "engineering_tags": [
+        "interval-validation"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 5,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q04",
+      "batch_id": "python-set-02",
+      "title": "井字棋极小极大 AI",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "game-ai"
+      ],
+      "concept_tags": [
+        "minimax"
+      ],
+      "artifact_tags": [
+        "game-board"
+      ],
+      "engineering_tags": [
+        "memoization"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 6,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q05",
+      "batch_id": "python-set-02",
+      "title": "带文件头的霍夫曼压缩器",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "data-compression"
+      ],
+      "concept_tags": [
+        "huffman-coding"
+      ],
+      "artifact_tags": [
+        "binary-file"
+      ],
+      "engineering_tags": [
+        "self-contained-format"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 7,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q06",
+      "batch_id": "python-set-02",
+      "title": "不重叠圆形 SVG 生成艺术",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "generative-art"
+      ],
+      "concept_tags": [
+        "rejection-sampling"
+      ],
+      "artifact_tags": [
+        "svg"
+      ],
+      "engineering_tags": [
+        "geometry-constraints"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 8,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q07",
+      "batch_id": "python-set-02",
+      "title": "八步电子鼓机 WAV 合成",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "audio"
+      ],
+      "concept_tags": [
+        "signal-synthesis"
+      ],
+      "artifact_tags": [
+        "wav"
+      ],
+      "engineering_tags": [
+        "pcm-encoding"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 9,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q08",
+      "batch_id": "python-set-02",
+      "title": "本地留言板 HTTP API",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "web-services"
+      ],
+      "concept_tags": [
+        "http-routing"
+      ],
+      "artifact_tags": [
+        "http-api"
+      ],
+      "engineering_tags": [
+        "protocol-error-handling"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 10,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q09",
+      "batch_id": "python-set-02",
+      "title": "手写神经网络学习异或",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "machine-learning"
+      ],
+      "concept_tags": [
+        "backpropagation"
+      ],
+      "artifact_tags": [
+        "report"
+      ],
+      "engineering_tags": [
+        "gradient-checking"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 11,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q10",
+      "batch_id": "python-set-02",
+      "title": "数独求解与唯一性判定",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "constraint-puzzles"
+      ],
+      "concept_tags": [
+        "constraint-search"
+      ],
+      "artifact_tags": [
+        "data-file"
+      ],
+      "engineering_tags": [
+        "backtracking"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 12,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q11",
+      "batch_id": "python-set-02",
+      "title": "增量二进制数据帧解码器",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "network-protocols"
+      ],
+      "concept_tags": [
+        "incremental-parsing"
+      ],
+      "artifact_tags": [
+        "data-stream"
+      ],
+      "engineering_tags": [
+        "crc-framing"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 13,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q12",
+      "batch_id": "python-set-02",
+      "title": "卡牌抽样概率实验室",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "probability"
+      ],
+      "concept_tags": [
+        "hypergeometric-counting"
+      ],
+      "artifact_tags": [
+        "report"
+      ],
+      "engineering_tags": [
+        "monte-carlo-validation"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 14,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q13",
+      "batch_id": "python-set-02",
+      "title": "弹簧振子数值积分实验",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "physics"
+      ],
+      "concept_tags": [
+        "numerical-integration"
+      ],
+      "artifact_tags": [
+        "data-file"
+      ],
+      "engineering_tags": [
+        "energy-drift-analysis"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 15,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q14",
+      "batch_id": "python-set-02",
+      "title": "双向偏好的结对协作匹配",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "matching-systems"
+      ],
+      "concept_tags": [
+        "stable-matching"
+      ],
+      "artifact_tags": [
+        "report"
+      ],
+      "engineering_tags": [
+        "blocking-pair-validation"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 16,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    },
+    {
+      "id": "python-set-02-q15",
+      "batch_id": "python-set-02",
+      "title": "命令行灰度图像工作台",
+      "level": "advanced",
+      "status": "legacy_unreviewed",
+      "domain_tags": [
+        "image-processing"
+      ],
+      "concept_tags": [
+        "sobel-connected-components"
+      ],
+      "artifact_tags": [
+        "image-file"
+      ],
+      "engineering_tags": [
+        "format-algorithm-separation"
+      ],
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "question_page": 17,
+      "source_review_ids": [],
+      "reference_review_id": null,
+      "implementation_languages": [
+        "python"
+      ]
+    }
+  ],
+  "batches": [
+    {
+      "id": "python-set-01",
+      "status": "legacy_unreviewed",
+      "artifact": {
+        "name": "Python项目开发训练15题_含文末参考代码.docx"
+      },
+      "index_checked_at": "2026-11-01",
+      "index_pages": [
+        1,
+        2
+      ],
+      "language_context": {
+        "mode": "single",
+        "targets": [
+          "python"
+        ],
+        "selection_basis": "来自已查阅的两套 Python 原文总览；仅补历史语言，不声明工具链已验证。",
+        "toolchains": []
+      }
+    },
+    {
+      "id": "python-set-02",
+      "status": "legacy_unreviewed",
+      "artifact": {
+        "name": "Python项目开发训练第二套15题_多样化项目与参考代码.docx"
+      },
+      "index_checked_at": "2026-11-01",
+      "index_pages": [
+        1,
+        2
+      ],
+      "language_context": {
+        "mode": "single",
+        "targets": [
+          "python"
+        ],
+        "selection_basis": "来自已查阅的两套 Python 原文总览；仅补历史语言，不声明工具链已验证。",
+        "toolchains": []
+      }
+    }
+  ],
+  "history_note": "只核实原文总览与题目主题。标签是用于去重的主题分类，未进行九维源码复核；不得视为已获85分。 GitHub 版本保留历史题目主题与标签用于去重，不包含个人文档定位符；原文未随仓库分发。"
+}

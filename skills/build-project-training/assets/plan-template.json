@@ -1,0 +1,33 @@
+{
+  "batch_id": "",
+  "count": 15,
+  "basic_count": 3,
+  "history_signature": "",
+  "research": {
+    "history_checked": false,
+    "completed_at": "",
+    "archive_ref": "",
+    "query_log": [],
+    "candidates": []
+  },
+  "questions": [],
+  "artifact": {},
+  "validation": {
+    "all_code_executed": false,
+    "extracted_code_verified": false,
+    "all_pages_reviewed": false,
+    "artifact_saved": false
+  },
+  "language_context": {
+    "mode": "single",
+    "targets": [],
+    "selection_basis": "",
+    "toolchains": []
+  },
+  "advanced_count": 12,
+  "difficulty_request": {
+    "mode": "default",
+    "value": null,
+    "basis": ""
+  }
+}

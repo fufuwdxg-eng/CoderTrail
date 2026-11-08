@@ -1,0 +1,98 @@
+{
+  "id": "",
+  "kind": "external_source",
+  "title": "",
+  "reviewed_at": "",
+  "source": {
+    "url": "",
+    "project_url": "",
+    "revision": "",
+    "code_sha256": "",
+    "scope": "",
+    "evidence_archive_ref": "",
+    "license": {
+      "id": "",
+      "locator": "",
+      "reuse_allowed": null,
+      "obligations": ""
+    },
+    "languages": [],
+    "implementation_mode": "single"
+  },
+  "evidence": [],
+  "scores": {
+    "correctness": {
+      "rating": null,
+      "evidence_ids": [],
+      "rationale": "",
+      "limitations": ""
+    },
+    "readability": {
+      "rating": null,
+      "evidence_ids": [],
+      "rationale": "",
+      "limitations": ""
+    },
+    "maintainability": {
+      "rating": null,
+      "evidence_ids": [],
+      "rationale": "",
+      "limitations": ""
+    },
+    "testability": {
+      "rating": null,
+      "evidence_ids": [],
+      "rationale": "",
+      "limitations": ""
+    },
+    "performance": {
+      "rating": null,
+      "evidence_ids": [],
+      "rationale": "",
+      "limitations": ""
+    },
+    "architecture": {
+      "rating": null,
+      "evidence_ids": [],
+      "rationale": "",
+      "limitations": ""
+    },
+    "documentation": {
+      "rating": null,
+      "evidence_ids": [],
+      "rationale": "",
+      "limitations": ""
+    },
+    "engineering": {
+      "rating": null,
+      "evidence_ids": [],
+      "rationale": "",
+      "limitations": ""
+    },
+    "reliability": {
+      "rating": null,
+      "evidence_ids": [],
+      "rationale": "",
+      "limitations": ""
+    }
+  },
+  "verification": {
+    "code_inspected": false,
+    "tests_executed": false,
+    "tests_passed": null,
+    "independent_checks": false,
+    "critical_findings": [],
+    "commands": [],
+    "environment": "",
+    "evidence_ids": [],
+    "language_checks": [],
+    "execution_refs": []
+  },
+  "calibration": {
+    "decision": "",
+    "reviewer": "",
+    "method": "",
+    "rationale": "",
+    "evidence_ids": []
+  }
+}

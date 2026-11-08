@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "title": "",
+  "level": "advanced",
+  "task_type": "build",
+  "implementation_languages": [],
+  "difficulty": {
+    "modeling": null,
+    "algorithm": null,
+    "design": null,
+    "debugging": null,
+    "prerequisites": [],
+    "learning_goals": [],
+    "estimated_minutes": null,
+    "rationale": "",
+    "calibration_basis": ""
+  },
+  "domain_tags": [],
+  "concept_tags": [],
+  "artifact_tags": [],
+  "engineering_tags": [],
+  "candidate_ids": [],
+  "source_review_ids": [],
+  "cross_language_adaptations": [],
+  "novelty_note": "",
+  "reference_review_id": null
+}
