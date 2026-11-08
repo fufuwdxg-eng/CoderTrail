@@ -1,0 +1,249 @@
+{
+  "format_version": 1,
+  "project": "CoderTrail",
+  "subtitle": "编程进阶之路",
+  "skill_name": "build-project-training",
+  "packaged_on": "2026-11-08",
+  "entry_point": "skills/build-project-training/SKILL.md",
+  "file_count_excluding_manifest": 45,
+  "hash_algorithm": "sha256",
+  "manifest_excludes_itself": true,
+  "validation": {
+    "unittest_count": 68,
+    "passed": 68,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 11.271,
+    "python": "3.12.14",
+    "node": "24.22.1",
+    "g++": "13.3.0",
+    "platform": "Linux"
+  },
+  "files": [
+    {
+      "path": ".gitattributes",
+      "size_bytes": 120,
+      "sha256": "9f330c39bc6024978113b073f7d8d1c9e2542f4f7339547598fbbca64c5090a4"
+    },
+    {
+      "path": ".github/workflows/checks.yml",
+      "size_bytes": 676,
+      "sha256": "f9c0be0a818e3486759f39e58890af02ecaeb2ad52212794ba79c27c7fa2f1ff"
+    },
+    {
+      "path": ".gitignore",
+      "size_bytes": 142,
+      "sha256": "c40a6f4bd6091c4f5abfb360b1138fbbdbb0f6bd34d5ee0eaa1da077a59f39a6"
+    },
+    {
+      "path": "NOTICE.md",
+      "size_bytes": 863,
+      "sha256": "427e8e6918b528e67f8ced802505c0554ff4e91e724f16344b52465bf3ec0b3a"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 21757,
+      "sha256": "880c0ffaa58a59edf64ca9d016537dde83fbf312eb92cf2d12d5e2a6b29f37a2"
+    },
+    {
+      "path": "docs/quickstart.md",
+      "size_bytes": 5466,
+      "sha256": "c0e2b602cf21f6aff48a9adf3565ca1510fe8dece8b928a2f4675952e325a46a"
+    },
+    {
+      "path": "docs/validation.md",
+      "size_bytes": 3030,
+      "sha256": "f9f3c994e73d07f02b2abb27a1e1e79a8bfc2e7ad174e9eab489dec71b700748"
+    },
+    {
+      "path": "examples/prompts.md",
+      "size_bytes": 2080,
+      "sha256": "14c6102cb28153107b1f8e2dc600cb4ca5da9cb0e302146463cbfe3098be3193"
+    },
+    {
+      "path": "skills/build-project-training/.gitignore",
+      "size_bytes": 33,
+      "sha256": "23c07a51bd54e33dc0773a92a27cee98274da1df7f7ee87a4774e0e99e5d8637"
+    },
+    {
+      "path": "skills/build-project-training/SKILL.md",
+      "size_bytes": 14861,
+      "sha256": "1f54d02d836fde721a055e3d6ec27efb87768ca0bce329c3f0ae6cdaf13428d8"
+    },
+    {
+      "path": "skills/build-project-training/agents/openai.yaml",
+      "size_bytes": 524,
+      "sha256": "0007ef2e3a1d5ca1b54434a3f49e19d2cd4e46fdeec14f6ddd082194cd52566b"
+    },
+    {
+      "path": "skills/build-project-training/assets/execution-manifest-template.json",
+      "size_bytes": 130,
+      "sha256": "df6e09551098f912697cf5d825bdf7e5e38b7bb918d529794139f01bd7761c7b"
+    },
+    {
+      "path": "skills/build-project-training/assets/homework-scope-template.json",
+      "size_bytes": 178,
+      "sha256": "6dd746a04e69714a8b47336b0cbefd240c94cd648703c0c6df3dd780e652591d"
+    },
+    {
+      "path": "skills/build-project-training/assets/icon.svg",
+      "size_bytes": 420,
+      "sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b"
+    },
+    {
+      "path": "skills/build-project-training/assets/learning-history.json",
+      "size_bytes": 44,
+      "sha256": "1a5f5f5aa0ba2c8e25a6d0994e96d5911cd7194ee78b447a194f0321f46bdbf0"
+    },
+    {
+      "path": "skills/build-project-training/assets/learning-observation-template.json",
+      "size_bytes": 192,
+      "sha256": "8d0cfe7c225891891363bb2689878d2c8e7c13a80876c1e96279b3584b51eb45"
+    },
+    {
+      "path": "skills/build-project-training/assets/plan-template.json",
+      "size_bytes": 645,
+      "sha256": "e54f11bd460548b8d7197383a11ba573aa75121e50d71bbd7dcd040620a2ef36"
+    },
+    {
+      "path": "skills/build-project-training/assets/question-bank.json",
+      "size_bytes": 22274,
+      "sha256": "578a3588363d828509417c6f881550cef75d724455f3146812a6f8c072a09f9a"
+    },
+    {
+      "path": "skills/build-project-training/assets/question-template.json",
+      "size_bytes": 584,
+      "sha256": "9e72d0d1c9cf73f86939400e788816f78835defc3573a06a2ca8d56225a3806d"
+    },
+    {
+      "path": "skills/build-project-training/assets/review-template.json",
+      "size_bytes": 1966,
+      "sha256": "9bf46fc10007d82a0ba3c7e9ef4ceb4b92f76c2754da7ec634b7f789d39c56a5"
+    },
+    {
+      "path": "skills/build-project-training/assets/validation-fixtures/bridge.py",
+      "size_bytes": 371,
+      "sha256": "afeeeaefd3612aee755f296854fa37b38aee3493d36f46756128fea2810264de"
+    },
+    {
+      "path": "skills/build-project-training/assets/validation-fixtures/cpp/main.cpp",
+      "size_bytes": 1016,
+      "sha256": "336785053cb1386f7c8bdbcc84c22f55e38e6cb695cf59d9ebc9b5a7bceaf83d"
+    },
+    {
+      "path": "skills/build-project-training/assets/validation-fixtures/javascript/sum.mjs",
+      "size_bytes": 532,
+      "sha256": "1d63e217ec7a11cd0f6060f7133ccba86eed3e562b8f5c8a5d3932557b6656b6"
+    },
+    {
+      "path": "skills/build-project-training/assets/validation-fixtures/manifest-collaboration.json",
+      "size_bytes": 37219,
+      "sha256": "66d6c4c9f97328f276504aea6a22341af535633bc446298d693cbf4c98c43f84"
+    },
+    {
+      "path": "skills/build-project-training/assets/validation-fixtures/manifest-cpp.json",
+      "size_bytes": 12801,
+      "sha256": "844472ca2b0ce79fa5ef8a5a58295c2c1c6eb7265dd899fc4f1d800f4d9fbfe3"
+    },
+    {
+      "path": "skills/build-project-training/assets/validation-fixtures/manifest-javascript.json",
+      "size_bytes": 12561,
+      "sha256": "c550fb195d6d9b2b9e75d3e6624ae538269db7990ec869065ee6e1965166b50e"
+    },
+    {
+      "path": "skills/build-project-training/assets/validation-fixtures/manifest-python.json",
+      "size_bytes": 12551,
+      "sha256": "0d96b3798463443d0436b21350ce3706f933bba5d1537b3f2e66d33344470b0b"
+    },
+    {
+      "path": "skills/build-project-training/assets/validation-fixtures/python/sum_cli.py",
+      "size_bytes": 856,
+      "sha256": "39ede4d476c8e9d634c33b5ec64cd3d0bb9a0c15482282f7d34ce7e9009a7d2f"
+    },
+    {
+      "path": "skills/build-project-training/references/exercise-delivery.md",
+      "size_bytes": 4779,
+      "sha256": "e3320c3290d2f2934c3981d15c75e7c126be5c11ecb23e1110ed29ade7ba865f"
+    },
+    {
+      "path": "skills/build-project-training/references/homework-marking.md",
+      "size_bytes": 8315,
+      "sha256": "4d7955e99c437dbab715f1fe9a62cf2cdd24b19e95595a52e5445fc2da32129e"
+    },
+    {
+      "path": "skills/build-project-training/references/language-adaptation.md",
+      "size_bytes": 9526,
+      "sha256": "3f19baf5bbe6a4d3116abbf110cd89b276fb08736a26b4f039f998c1247e92ed"
+    },
+    {
+      "path": "skills/build-project-training/references/learning-design.md",
+      "size_bytes": 5157,
+      "sha256": "3ae072f2274dbaac05ba9db3d233a209442b9a0cbe81ec0bbebda3ad4ce86fd0"
+    },
+    {
+      "path": "skills/build-project-training/references/quality-rubric.md",
+      "size_bytes": 7282,
+      "sha256": "96b31fa02b2ba4039ff75b789c1b436a969d85b39c19e85b4beaa0c3778369c7"
+    },
+    {
+      "path": "skills/build-project-training/references/records.md",
+      "size_bytes": 12564,
+      "sha256": "ef2fa0aae9d0c96dd7b5bb7d498d821c89ccb7b949bbd4e92b49d57738fa73b4"
+    },
+    {
+      "path": "skills/build-project-training/references/research-diversity.md",
+      "size_bytes": 5593,
+      "sha256": "15b639a5d41a824af9ff59ad49cdb7115a6fafaa9522fc8d5071ec4425738878"
+    },
+    {
+      "path": "skills/build-project-training/references/scoring-program.md",
+      "size_bytes": 9064,
+      "sha256": "ac9b2893d5afad6ac55da731489692f43848029f72af0aee7e34634388efa38b"
+    },
+    {
+      "path": "skills/build-project-training/references/staged-workflow.md",
+      "size_bytes": 2999,
+      "sha256": "ec9f90ca6a5fdbe2694302fb11ba0a9b09b4e1a856244a18854d0134996dd72c"
+    },
+    {
+      "path": "skills/build-project-training/references/validation-status.md",
+      "size_bytes": 4605,
+      "sha256": "79e76a96088ec1d4e71b2c63f487e9fe4028289f49fe6210f92b2a8f04231e7b"
+    },
+    {
+      "path": "skills/build-project-training/scripts/curate_bank.py",
+      "size_bytes": 36733,
+      "sha256": "9a63963aaa2aaf5273a244f3a085973f590687a9a03e660049ea83ac5fce2cb6"
+    },
+    {
+      "path": "skills/build-project-training/scripts/execution_runner.py",
+      "size_bytes": 18223,
+      "sha256": "5a8b204ac0ea3a6d9e88694e70e9b2160a77c13f4b5bdc9a62d8603deb694214"
+    },
+    {
+      "path": "skills/build-project-training/scripts/homework_review.py",
+      "size_bytes": 17584,
+      "sha256": "4ff6825f2acd0303c3201d1d3c9aec69e9ce33ab95dc7a9e3e2847d3a9c5cb00"
+    },
+    {
+      "path": "skills/build-project-training/scripts/project_grader.py",
+      "size_bytes": 15726,
+      "sha256": "3459a0a4af5fe7ced0e705842038f5b272b3a3ffb894938a0d8ebb180cded521"
+    },
+    {
+      "path": "skills/build-project-training/scripts/test_curate_bank.py",
+      "size_bytes": 29670,
+      "sha256": "1d10c34fa964ed66f0ab55a5533cc475a840523df13f579dccf3f9758a3434f7"
+    },
+    {
+      "path": "skills/build-project-training/scripts/test_homework_review.py",
+      "size_bytes": 9897,
+      "sha256": "786e51c4df484e0f142a3ed62d68b0b2ecc4da588e9fbd70e6d24411c21845a2"
+    },
+    {
+      "path": "skills/build-project-training/scripts/test_project_grader.py",
+      "size_bytes": 13296,
+      "sha256": "7c81433ddc16ba004909fa926e085a84bd1f74377e444d025e72288f7d806adf"
+    }
+  ]
+}
