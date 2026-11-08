@@ -1,5 +1,5 @@
 # CoderTrail — Learn by Building Projects
-
+**简体中文** | [English](README_EN.md)
 [简体中文](README.md) | **English**
 
 **Move beyond programming fundamentals with project-based practice, evidence-backed reviews, and line-by-line feedback.**
